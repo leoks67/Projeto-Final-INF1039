@@ -1,6 +1,6 @@
 🏅 Esportes em Foco
 
-Projeto desenvolvido para o Demoday da disciplina INF1039 (Projetos: Aplicações Interativas) da PUC-Rio com o objetivo de criar uma plataforma digital que aproxima o público de diferentes modalidades esportivas (principalmente as menos populares) oferecendo notícias, engajamento e recompensas.
+Projeto desenvolvido para o Demoday da disciplina INF1039 (Projetos: Aplicações Interativas) da PUC-Rio cursada em 2024.2. Ela tem como objetivo criar uma plataforma digital que aproxima o público de diferentes modalidades esportivas (principalmente as menos populares) oferecendo notícias, engajamento e recompensas.
 
 🎯 Contexto
 
